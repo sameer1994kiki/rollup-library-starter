@@ -1,1 +1,1 @@
-# -rollup-library-starter
+# rollup-library-starter
